@@ -1,0 +1,9 @@
+.light-theme {
+    --background-color: #ffffff;
+    --text-color: #000000;
+    --link-color: #1a0dab;
+    --button-color: #4CAF50;
+    --button-text-color: #ffffff; 
+    --border-color: #cccccc;
+    --header-background: #f1f1f1;       
+}
